@@ -55,6 +55,10 @@
    type: school
    long: 5.489841
    lat: 51.447744
+ - name: Embedded System Design & Application laboratory
+   type: research institute
+   long: 38.333420 
+   lat: 21.762013
  - name: Robot Rose B.V.
    type: company
    long: 5.494894
